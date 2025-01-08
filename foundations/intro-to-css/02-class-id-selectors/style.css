@@ -1,0 +1,19 @@
+.pinkman {
+    background-color: #ff758c;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.pinkman.sized {
+    font-size: 24px;
+}
+
+#second {
+    color: #48c6ef;
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: #11998e;
+    font-size: 24px;
+    font-weight: bold;
+}
